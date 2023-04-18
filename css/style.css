@@ -1,0 +1,77 @@
+ body{
+    background-color:#413D38 ;
+    color: #FBFAFF;
+    font-family: montserrat;
+ }
+
+
+ 
+ .inline-block{
+    display: inline-block;
+    vertical-align: top;
+    font-family: 'Cabin', sans-serif;
+  }
+  
+  .logo{
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+  }
+  
+  .nav{
+    width: 73%;
+    padding: 1%;
+    font-family: 'Cabin', sans-serif;
+  }
+  
+  ul{
+    width: 100%;
+    margin-left: auto;
+    font-family: 'Cabin', sans-serif;
+    text-align: center;
+  }
+
+  herolmg{ 
+    height: 600px;
+    padding: 25px;
+
+  }
+
+  .content{
+    width: 500px;
+    margin: 0 auto;
+    font-family: montserrat;
+  }
+
+  h1{
+    font-family: montserrat;
+    font-size: 40pt;
+   
+
+  }
+
+  button{
+  display: flex;
+  justify-content: center;
+    margin:auto  
+  }
+ 
+  footer{
+    background-color: #413D38;
+    padding: 1%;
+    text-align: center;
+  }
+  
+  footer ul {
+    display: inline-block;
+    vertical-align: top;
+  }
+  
+  footer li {
+    padding: 1%;
+    text-align: center;
+  }
+  
+  
+  
+  
